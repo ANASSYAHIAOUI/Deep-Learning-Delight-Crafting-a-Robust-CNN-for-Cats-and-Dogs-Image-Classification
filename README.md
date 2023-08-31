@@ -27,7 +27,3 @@ Navigate to the project directory and ensure you have the necessary dependencies
 Run the provided Jupyter Notebook to train and evaluate the model.
 Explore the model's architecture, training history, and predictions.
 This project showcases the power of deep learning and computer vision, highlighting the potential of neural networks in interpreting and classifying visual data. Feel free to contribute or use the model for your own image classification tasks!
-
-Note: Ensure you have the required libraries installed before running the code.
-
-Feel free to adapt and expand upon this summary to provide more specific details about your project and its implementation.
