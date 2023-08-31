@@ -1,6 +1,9 @@
 # Deep-Learning-Delight-Crafting-a-Robust-CNN-for-Cats-and-Dogs-Image-Classification
 
 ![Dashboard Preview](./CNN.png)
+
+
+
 Cats and Dogs Image Classification with Convolutional Neural Network (CNN)
 Project Overview:
 In this project, I've developed a powerful Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of cats and dogs. With a dataset of over 30,000 images per category sourced from Kaggle, the model underwent rigorous training, validation, and augmentation techniques to achieve outstanding accuracy and robust generalization.
